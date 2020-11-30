@@ -90,13 +90,7 @@ b{
     background: var(--color);
     
 }
-#box{
-	height: 50px; width: 100px;
-	border-radius: 5px;
-	line-height: 50px;
-	text-align: center;
-	margin: auto;
-}
+
 
 
 
