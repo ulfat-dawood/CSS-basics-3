@@ -49,9 +49,13 @@ section:hover{
 code{
 	font-size: 3rem;
 }
-h1, h2, h3{
+h1, h2, h3 {
 	letter-spacing: -3px;
 	font-weight: normal;
+}
+h4, h5, h6{
+	font-weight: normal;
+	
 }
 
 .title{
